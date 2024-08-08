@@ -1,0 +1,2 @@
+# list of REPO to clone and search APIs listed in api.txt
+https://github.com/lattice/quda.git
